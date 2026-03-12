@@ -6,7 +6,7 @@ This repository contains the source code for my personal developer portfolio web
 The website showcases my projects, technical skills, and achievements in Artificial Intelligence, Machine Learning, and Data Structures & Algorithms.
 
 Live Website:
-https://yourusername.github.io/portfolio-website
+https://techG-20.github.io/portfolio
 
 ---
 
